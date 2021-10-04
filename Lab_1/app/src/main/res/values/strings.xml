@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logo">Лабораторна робота №1</string>
+    <string name="hint">Введіть свій текст</string>
+    <string name="radio1">Green</string>
+    <string name="radio2">Red</string>
+    <string name="radio3">Blue</string>
+    <string name="button1">Cancel</string>
+    <string name="button2">Ok</string>
+    <string name="font_family_light">sans-serif-light</string>
+    <string name="font_family_black">sans-serif-black</string>
+
+</resources>
